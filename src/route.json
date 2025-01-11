@@ -1,0 +1,480 @@
+[
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 1"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 2"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 3"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 4"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 5"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 6"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 7"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 8"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 9"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 10"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 11"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 12"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 13"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 14"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 15"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 16"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 17"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 18"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 19"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 20"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 21"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 22"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 23"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 24"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 25"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 26"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 27"
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "bottom",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "right",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 28"
+    },
+    {
+        "direction": "left",
+        "gather": true
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 29"
+    },
+    {
+        "direction": "top",
+        "gather": true,
+        "annotation": "# 30"
+    }
+]
